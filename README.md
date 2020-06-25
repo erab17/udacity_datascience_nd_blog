@@ -26,10 +26,11 @@ In this project I choose Stack Overflow data for 2019. Out of all these data I c
 
 
 ## Files and Descriptions:
-- xxxx.pyng: Jupyter notebook file where data importing, cleaning and exploration has occured. All the code steps are commented with markdown cells in order to facilitate the understanding of the code and the notebook.
+- Stackoverflow.ipynb: Jupyter notebook file where data importing, cleaning and exploration has occured. All the code steps are commented with markdown cells in order to facilitate the understanding of the code and the notebook.
 
-- xxxx.csv: Data file from Stackoverflow with the results from survey.
+- survey_results_public.7z: This file contains the "survey_results_public.csv" csv file. Its to large 190mb to be uploaded raw to github. Hence in order to use it the user first to unpack it. This file contains data from Stackoverflow with the results from a survey.
 
+- survey_results_schema.csv: The name of all the variables and their respective question.
 ## Results
 The answers to the questions stated above can be found in this blog post here: https://medium.com/@jerker.aberg/stackoverflow-salary-study-for-sweden-dbb29144522c?sk=6f65e492008602b9139aeace2c520c58
 
