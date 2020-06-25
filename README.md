@@ -1,7 +1,7 @@
 
 
-# Write-a-Data-Science-Blog-Post
-# A Udacity Data Scientist Nanodegree Project
+
+# Udacity Data Scientist Nanodegree Project - Write a Blog Post
 
 ## Table of Contents
 1.Installation  
@@ -31,7 +31,7 @@ In this project I choose Stack Overflow data for 2019. Out of all these data I c
 - xxxx.csv: Data file from Stackoverflow with the results from survey.
 
 ## Results
-The answers to the questions stated above can be found in this blog post here: 
+The answers to the questions stated above can be found in this blog post here: https://medium.com/@jerker.aberg/stackoverflow-salary-study-for-sweden-dbb29144522c?sk=6f65e492008602b9139aeace2c520c58
 
 ## Licensing, Authors, Acknowledgements
 Credit and acknowledgement to Stackoverflow for the data.
